@@ -1,5 +1,5 @@
 # odin-recipes
-Odin Project - P1 Odin-Recipes
+Project Odin Project - P1 Odin-Recipes
 
 Odin Project 1
 
